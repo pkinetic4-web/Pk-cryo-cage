@@ -1,4 +1,4 @@
-​Project Kinetic: Cryo-Cage (V11.9)
+​Sovereign Kinetic: Cryo-Cage (V11.9)
 ​The Monolithic Sterile-Armor Infrastructure Retrofit
 ​Project Kinetic: Cryo-Cage is an open-source (GPL v3.0) architectural framework for the next generation of refrigerated logistics. This system replaces traditional, fuel-heavy diesel mechanical refrigeration with a solid-state, armored thermal shield designed for the "Last Mile" of food distribution.
 ​🚀 The Vision
@@ -34,3 +34,4 @@ While this repository is licensed under the **GNU GPL v3.0** to ensure the free 
 *Subject Line: Commercial Partnership Inquiry - project Kinetic 
 
 ---
+​Note: Sovereign Kinetic (SK) was formerly developed under the working title "Project Kinetic." Some legacy documentation may still reflect the original codename.
